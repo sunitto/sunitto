@@ -11,10 +11,13 @@ As I already said, I love to learn and coding is a never ending love story someh
 - Alumni at Le Wagon Bordeaux in Ruby stack and JS.
 
 ##
-🔭 I’m currently looking for a job opportunity to dig deepen my skills in both back-end and front-end development.
+🔭 PROJECT
+
+I’m currently looking for a job opportunity to dig deepen my skills in both back-end and front-end development.
 
 ##
 ⚡ FUN FACT
+
 I'm really passionate about boardgame and TCG, especially Flesh and Blood !!!
 
 
