@@ -1,5 +1,5 @@
-##
-Hi there 👋
+## 👋 HI THERE
+
 I'm Snith, a freshly graduated junior web developper. After 7 years working in boardgaming industry, I started a bootcamp to learn a new job.
 I discovered an amazing job full of challenges and new things to learn. Thanks to my cultural melting pot (Laos, China, France) and my professional experiences, I think I can bring something unique to my work.
 As I already said, I love to learn and coding is a never ending love story somehow.
