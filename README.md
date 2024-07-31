@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Snith, a freshly graduated web developper (junior :)). After 7 years working in boardgaming industry, I started a bootcamp to learn a new job.
+I discovered an amazing job full of challenges and new things to learn. Thanks to my cultural melting pot (Laos, China, France) and my professional experiences, I think I can bring something unique to my work.
+As I already said, I love to learn and coding is a never ending love story somehow.
 
 <!--
 **sunitto/sunitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
