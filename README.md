@@ -13,12 +13,12 @@ As I already said, I love to learn and coding is a never ending love story someh
 ##
 🔭 PROJECT
 
-I’m currently looking for a job opportunity to dig deepen my skills in both back-end and front-end development.
+I’m currently looking for a job opportunity to dig deeper and improve my skills in both back-end and front-end development.
 
 ##
 ⚡ FUN FACT
 
-I'm really passionate about boardgame and TCG, especially Flesh and Blood !!!
+I'm really passionate about boardgame and everything related with problem solving
 
 
 <!--
